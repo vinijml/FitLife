@@ -32,6 +32,7 @@ python main.py
 
 ## Estrutura do Projeto
 
+```
 fitlife/
 ├── main.py              # Ponto de entrada
 ├── app.py               # Janela principal e navegação
@@ -42,3 +43,10 @@ fitlife/
 ├── abas_basicas.py      # Professores, Alunos e Planos
 ├── abas_matriculas.py   # Matrículas e Acompanhamento
 └── abas_treinos.py      # Exercícios e Ficha de treino
+```
+
+## Autores
+
+- Kayke Tadeu
+- Vinicius de Jesus Marçal Leite
+
