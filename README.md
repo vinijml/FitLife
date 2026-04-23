@@ -32,6 +32,7 @@ python main.py
 
 ## Estrutura do Projeto
 
+fitlife/
 ├── main.py              # Ponto de entrada
 ├── app.py               # Janela principal e navegação
 ├── database.py          # Camada de dados (SQLite)
